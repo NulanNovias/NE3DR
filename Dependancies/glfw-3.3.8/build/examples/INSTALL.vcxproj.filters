@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Programmation\NE3DR\NE3DR\Dependancies\glfw-3.3.8\build\CMakeFiles\8961c64e3ca6813871626dc45f125f72\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FC1C9486-F37E-3B1E-93D3-2DB3B6F77FC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
